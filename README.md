@@ -4,7 +4,8 @@
 
 # Main
 
-```import cloudscraper
+```py
+import cloudscraper
 
 
 class Chownow:
