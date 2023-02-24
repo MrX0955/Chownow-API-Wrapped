@@ -32,4 +32,5 @@ class Chownow:
                     print("Account With No Card")
 
 
-Chownow(input("Write ur proxy (Just USA Proxy) like a us.proxy.com:2000 : ")).main()```
+Chownow(input("Write ur proxy (Just USA Proxy) like a us.proxy.com:2000 : ")).main()
+```
